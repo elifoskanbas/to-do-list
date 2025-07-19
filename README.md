@@ -1,6 +1,6 @@
 <h1>✅ To-Do List App</h1>
 
-<p>This is my first project. This project is a simple <strong>To-Do List</strong> application built with <strong>React</strong>. Users can add, delete, and reorder tasks easily.</p>
+<p>This is my first project with react. This project is a simple <strong>To-Do List</strong> application built with <strong>React</strong>. Users can add, delete, and reorder tasks easily.</p>
 
 <hr>
 
