@@ -1,0 +1,90 @@
+body{
+  background-color: #e3efee;
+}
+.toDoList{
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1{
+  font-size: 4rem;
+}
+
+button{
+  font-size: 1.7rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.5 ease;
+}
+
+.addBttn{
+  background-color: #c9f6cf;
+  
+}
+
+.addBttn :hover{
+  background-color: #8daa91;
+}
+
+.deleteBttn{
+  background-color: #e92525;
+  
+}
+
+.deleteBttn :hover{
+  background-color: #d30a0a;
+}
+
+.moveBttn{
+  background-color: #6eacf7;
+  
+}
+
+.moveBttn :hover{
+  background-color: #3a80ba;
+}
+
+input[type = "text"]{
+  font-size: 1.6 rem;
+  padding: 10px;
+  border: 2px solid rgb(174, 176, 184);
+  border-radius: 5px;
+  color: #000000;
+}
+
+ol{
+  padding: 0;
+}
+
+li{
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 15px;
+  background-color: #ffff;
+  margin-bottom: 10px;
+  border: 3px solid #b2d5d0;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.text{
+  flex: 1;
+  /*
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 0%;
+  */
+}
+
+.deleteBttn, .moveBttn{
+  padding: 8px 12px;
+  font-size: 1.4rem;
+  margin-left: 10px;
+
+}
