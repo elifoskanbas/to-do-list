@@ -1,10 +1,10 @@
-<h1>✅ To-Do List App</h1>
+<h1>To-Do List App</h1>
 
 <p>This is my first project with react. This project is a simple <strong>To-Do List</strong> application built with <strong>React</strong>. Users can add, delete, and reorder tasks easily.</p>
 
 <hr>
 
-<h2>📌 Features</h2>
+<h2> Features</h2>
 <ul>
   <li>Add new tasks</li>
   <li>Delete tasks</li>
@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2>🛠️ Technologies Used</h2>
+<h2> Technologies Used</h2>
 <ul>
   <li><strong>React</strong> (Hooks: <code>useState</code>)</li>
   <li><strong>JavaScript (ES6)</strong></li>
@@ -24,7 +24,7 @@
 
 <hr>
 
-<h2>🚀 Installation & Run</h2>
+<h2>Installation & Run</h2>
 <p>Follow these steps to run the project locally:</p>
 
 <pre>
@@ -47,7 +47,7 @@ npm run dev
 
 <hr>
 
-<h2>📂 Project Structure</h2>
+<h2> Project Structure</h2>
 <pre>
 to-do-list-app/
 │
@@ -63,7 +63,7 @@ to-do-list-app/
 
 <hr>
 
-<h2>🖥️ How to Use</h2>
+<h2> How to Use</h2>
 <ol>
   <li>Enter a task in the input field.</li>
   <li>Click the <strong>Add</strong> button to add the task.</li>
@@ -78,13 +78,13 @@ to-do-list-app/
 
 <hr>
 <!--
-<h2>📸 Screenshot</h2>
+<h2> Screenshot</h2>
 <p></p>
 -->
 
 <hr>
 
-<h2>✨ Future Improvements</h2>
+<h2>Future Improvements</h2>
 <ul>
   <li>Edit task feature</li>
   <li>Save tasks using Local Storage</li>
